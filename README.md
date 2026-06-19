@@ -13,6 +13,10 @@ Environment: Conda
 
 Platform: Google Colab
 
+License: MIT
+
+Citation Requirement: Yes
+
 Author: Kazi Saad Asif
 
 Credentials: Bachelor of Science in Electrical and Electronics Engineering 
